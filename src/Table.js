@@ -2,7 +2,7 @@ import React from 'react';
 import {Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn} from 'material-ui/Table';
 
 const style = {
-  margin: 12,
+  margin: 10,
 };
 
 export default class TableComponent extends React.Component {
